@@ -1,16 +1,22 @@
-### Hi there 👋
+Full Stack Web Engineer
 
-<!--
-**Humorousguy1003/Humorousguy1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack Web Engineer dedicated to building and optimizing user-focused websites for customers
+with various business objectives. Judicious and creative when crafting effective websites, apps and
+platforms to propel competitive advantage and revenue growth. Technically proficient and analytical
+problem solver with calm and focused demeanor.
+Well-versed in all stages of software development life cycle, including requirements gathering, design,
+development, testing and deployment
 
-Here are some ideas to get you started:
+👍My Skills👍
+🌟 Languages and Frameworks: React.js/Next.js, Redux, Typescript, Vue.js/Nuxt.js, Angular, TailwindCss, Material UI, Styled Component, Node.js, Express.js, PHP, Laravel, GraphQL, React Native,Javascript(ECMA 5, ECMA 6), MERN stack, MEAN stack, React.js/Vue.js with Laravel
+🌟 Ecommerce Platforms: Wordpress, Webflow
+🌟 Databases: MySQL, MongoDB
+🌟 Project Management Tools: Asana, Trello, Jira
+🌟 Version Control System: Git, Git bucket, GitLab
+🌟 Search Engine: Elastic Search
+🌟 Responsive Designs and Integration: Bootstrap, HTML5/CSS/SCSS, Javascript/jQuery/AJAX
+🌟 Designing tool UX/UI Skills: Sketch, Figma, Adobe XD, Adobe Illustrator, InVision, Proto.io, Balsamiq
+🌟 Web Service: AWS Lambda, Firebase, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
