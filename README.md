@@ -1,4 +1,4 @@
-Full Stack Web Engineer
+<h2>Full Stack Web Engineer</h2>
 
 Full stack Web Engineer dedicated to building and optimizing user-focused websites for customers
 with various business objectives. Judicious and creative when crafting effective websites, apps and
@@ -8,6 +8,7 @@ Well-versed in all stages of software development life cycle, including requirem
 development, testing and deployment
 
 👍My Skills👍
+<br />
 🌟 Languages and Frameworks: React.js/Next.js, Redux, Typescript, Vue.js/Nuxt.js, Angular, TailwindCss, Material UI, Styled Component, Node.js, Express.js, PHP, Laravel, GraphQL, React Native,Javascript(ECMA 5, ECMA 6), MERN stack, MEAN stack, React.js/Vue.js with Laravel
 🌟 Ecommerce Platforms: Wordpress, Webflow
 🌟 Databases: MySQL, MongoDB
@@ -18,7 +19,8 @@ development, testing and deployment
 🌟 Designing tool UX/UI Skills: Sketch, Figma, Adobe XD, Adobe Illustrator, InVision, Proto.io, Balsamiq
 🌟 Web Service: AWS Lambda, Firebase, Docker
 
-
+<br />
+<br />
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
