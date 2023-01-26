@@ -9,14 +9,14 @@ development, testing and deployment
 
 👍My Skills👍
 <br />
-🌟 Languages and Frameworks: React.js/Next.js, Redux, Typescript, Vue.js/Nuxt.js, Angular, TailwindCss, Material UI, Styled Component, Node.js, Express.js, PHP, Laravel, GraphQL, React Native,Javascript(ECMA 5, ECMA 6), MERN stack, MEAN stack, React.js/Vue.js with Laravel
-🌟 Ecommerce Platforms: Wordpress, Webflow
-🌟 Databases: MySQL, MongoDB
-🌟 Project Management Tools: Asana, Trello, Jira
-🌟 Version Control System: Git, Git bucket, GitLab
-🌟 Search Engine: Elastic Search
-🌟 Responsive Designs and Integration: Bootstrap, HTML5/CSS/SCSS, Javascript/jQuery/AJAX
-🌟 Designing tool UX/UI Skills: Sketch, Figma, Adobe XD, Adobe Illustrator, InVision, Proto.io, Balsamiq
+🌟 Languages and Frameworks: React.js/Next.js, Redux, Typescript, Vue.js/Nuxt.js, Angular, TailwindCss, Material UI, Styled Component, Node.js, Express.js, PHP, Laravel, GraphQL, React Native,Javascript(ECMA 5, ECMA 6), MERN stack, MEAN stack, React.js/Vue.js with Laravel <br />
+🌟 Ecommerce Platforms: Wordpress, Webflow <br />
+🌟 Databases: MySQL, MongoDB <br />
+🌟 Project Management Tools: Asana, Trello, Jira <br />
+🌟 Version Control System: Git, Git bucket, GitLab <br />
+🌟 Search Engine: Elastic Search <br />
+🌟 Responsive Designs and Integration: Bootstrap, HTML5/CSS/SCSS, Javascript/jQuery/AJAX <br />
+🌟 Designing tool UX/UI Skills: Sketch, Figma, Adobe XD, Adobe Illustrator, InVision, Proto.io, Balsamiq <br />
 🌟 Web Service: AWS Lambda, Firebase, Docker
 
 <br />
